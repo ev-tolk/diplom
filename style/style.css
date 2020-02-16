@@ -715,6 +715,29 @@ input[type=text]{
     padding-bottom: 24px;
 }
 
+@media(max-width: 1400px){
+    header .menu{
+        margin-left: 570px;
+    }
+    header h2{
+        margin-left: 145px;
+    }
+    header .menu ul{
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+
+@media(max-width: 1300px){
+    header .menu{
+        margin-left: 570px;
+    }
+    header h2{
+        margin-left: 110px;
+    }
+}
+
+
 @media(max-width: 1200px){
     .center{
         max-width: 992px;
