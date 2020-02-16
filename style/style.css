@@ -1116,6 +1116,16 @@ input[type=text]{
     .container8 .business .ivk{
         padding-right: 250px;
     }
+    header .burger{
+        margin-top: 6%;
+    }
+    .container8 .business .form .btn a{
+        padding: 14px 138px;
+    }
+    .container8 .business .form .btn{
+        margin-left: -1px;
+        margin-top: 4px;
+    }
 }
 
 @media(max-width: 450px){
