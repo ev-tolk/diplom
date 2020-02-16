@@ -1181,10 +1181,10 @@ input[type=text]{
         height: auto;
     }
     .container8 .business .form .btn a{
-        padding: 14px 150px 14px 136px;
+        padding: 14px 145px 14px 136px;
     }
     .container8 .business .form .btn{
-        margin-left: -1px;
+        margin-left: 0px;
         margin-top: 4px;
     }
     
@@ -1193,7 +1193,7 @@ input[type=text]{
         height: 44px;
     }
     header .burger{
-        margin-top: 8%;
+        margin-top: 7%;
     }
 }
 
