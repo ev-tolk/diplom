@@ -167,7 +167,7 @@ header .menu ul li a:hover{
 }
 
 .container2 .btn{
-    margin-bottom: 255px;
+    margin-bottom: 200px;
 }
 
 .container2 .btn a{
@@ -179,6 +179,10 @@ header .menu ul li a:hover{
 	padding: 16px 25px;
     background-color: #c19864;
     text-transform: uppercase;
+}
+
+.container2 .owl-dots{
+    padding-bottom: 60px;
 }
 
 .container3{
@@ -630,6 +634,7 @@ input[type=text]{
     font-family: 'OpenSans', sans-serif;
     font-size: 15px;
     padding-left: 10px;
+    border: none;
 }
 
 
@@ -983,8 +988,8 @@ input[type=text]{
     .center{
         max-width: 576px;
     }
-    .container2 .btn{
-        margin-bottom: 200px;
+    .container2 .btn {
+        margin-bottom: 160px;
     }
     header h2{
         margin-left: 10%;
@@ -1025,6 +1030,9 @@ input[type=text]{
         display: grid;
         grid-template-columns: 160px 320px ;
         margin-left: 5%;
+    }
+    .container4 .center .item1 .sv1, .container4 .center .item2 .sv1,.container4 .center .item3 .sv1,.container4 .center .item4 .sv1{
+        margin-left: 42%;
     }
 }
 
