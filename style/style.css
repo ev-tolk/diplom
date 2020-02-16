@@ -623,7 +623,7 @@ header .menu ul li a:hover{
 .container8 .business .form .btn{
     padding-left: 0px;
     margin-left: -5px;
-    margin-top: -3px;
+    margin-top: -4px;
 }
 
 input[type=text]{
@@ -998,6 +998,9 @@ input[type=text]{
         margin-left: 40%;
         margin-top: 10%;
     }
+    header .burger{
+        margin-top: 3%;
+    }
     header .menu ul{
         display: block;
     }
@@ -1190,7 +1193,7 @@ input[type=text]{
         height: auto;
     }
     .container8 .business .form .btn a{
-        padding: 14px 136 14px 134px;
+        padding: 14px 136 14px 138px;
     }
     .container8 .business .form .btn{
         margin-left: -1px;
@@ -1213,6 +1216,9 @@ input[type=text]{
     }
     .container8 .business .follow svg:nth-child(7){
         margin-left: 50px;
+    }
+    header .burger{
+        margin-top: 4%;
     }
     
 }
@@ -1319,5 +1325,8 @@ input[type=text]{
     input[type=text]{
         width: 280px;
         height: 44px;
+    }
+    header .burger{
+        margin-top: 5%;
     }
 }
