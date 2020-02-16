@@ -1,0 +1,29 @@
+$font: 'OpenSans', sans-serif;
+
+body{
+    font: $font;
+}
+
+.container4 .sv1{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius:  50%;
+}
+
+$p-size:25px;
+$line-height:10px;
+$line-count: 10;
+$block-size:20px;
+
+@function block-size($p-size){
+    @return $line-count * ($p-size + $line-height);
+}
+
+#sidebar{
+    height: block-size(15px);
+}
+
+#sidebar{
+    height: block-size(8px);
+}
