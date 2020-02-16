@@ -1191,6 +1191,10 @@ input[type=text]{
         margin-top: 20px;
         margin-left: 60px;
     }
+    .container8 .business .follow svg:nth-child(7){
+        margin-left: 50px;
+    }
+    
 }
 
 @media(max-width: 380px){
