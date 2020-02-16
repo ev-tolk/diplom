@@ -1189,6 +1189,18 @@ input[type=text]{
     .container2{
         height: auto;
     }
+    .container8 .business .form .btn a{
+        padding: 14px 136 14px 134px;
+    }
+    .container8 .business .form .btn{
+        margin-left: -1px;
+        margin-top: 2px;
+    }
+    
+    input[type=text]{
+        width: 350px;
+        height: 44px;
+    }
 }
 
 @media(max-width: 390px){
